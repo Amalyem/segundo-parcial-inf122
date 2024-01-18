@@ -1,0 +1,18 @@
+.Introducir{
+    display: flex;
+    width: 587px;
+    padding: 16px 20px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 10px 0px 0px 10px;
+    background: #F6F7F9;
+}
+.nueva-meta{
+    display: flex;
+    width: 587px;
+    padding: 16px 20px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 10px 0px 0px 10px;
+    background: #F6F7F9;
+}

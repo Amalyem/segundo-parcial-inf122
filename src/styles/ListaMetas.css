@@ -3,32 +3,40 @@
     justify-content:space-between;
     align-items:flex-start;
     flex-direction: column;
-    
     height:auto;
+   
 
 }
 .two-boxes{
     display: flex ;
     justify-content:space-between;
     align-items: flex-start;
+    
   
 }
 .complete{
+    width: 334px;
+padding: 10px 16px;
     border-radius: 10px;
     border: 1px solid #D9D9D9;
     background: #FFF;
  
 }
 .pendiente{
+    width: 334px;
+padding: 10px 16px;
     border-radius: 10px;
     border: 1px solid #D9D9D9;
     background: #FFF;
 }
 .tarea{
-display: flex;
-justify-content: space-between;
-align-items: center;
-border-radius: 10px;
-background: #FFF;
+    
+    display: flex;
+    width: 687px;
+    padding: 16px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    background: #FFF;
 }
  

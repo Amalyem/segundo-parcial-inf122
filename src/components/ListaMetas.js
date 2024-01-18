@@ -1,5 +1,5 @@
 import React from 'react';
-import "../styles/ListaMetas.css"
+import "../styles/ListaMetas.css";
 function ListaMetas(){
     return(
         <div className='box'>
