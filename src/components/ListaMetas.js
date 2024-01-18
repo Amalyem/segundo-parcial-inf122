@@ -14,7 +14,7 @@ function ListaMetas(){
             </div>
             
             <div className='tarea'>
-            <p>apewnder css</p>
+            <p>aprender css</p>
             </div>
             
 

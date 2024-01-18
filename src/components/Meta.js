@@ -11,4 +11,3 @@ function Meta({texto,esClick,funcionAdd}){
     );
 }
 export default Meta;
-""

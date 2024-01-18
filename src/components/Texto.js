@@ -2,8 +2,6 @@ import React from 'react';
 import '../styles/Texto.css';
  
 function  Texto() {
-    
-    
 
     return(
 
